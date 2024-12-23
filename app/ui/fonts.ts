@@ -1,5 +1,5 @@
-import { Lusitana } from '@next/font/google';
-import {Inter} from '@next/font/google';
+import { Lusitana } from 'next/font/google';
+import {Inter} from 'next/font/google';
 
 // Importing the Lusitana font with specific weights
 export const lusitana = Lusitana({
